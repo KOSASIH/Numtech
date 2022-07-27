@@ -1,6 +1,7 @@
 [![CodeQL](https://github.com/KOSASIH/Numtech/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/KOSASIH/Numtech/actions/workflows/codeql-analysis.yml)
 [![Greetings](https://github.com/KOSASIH/Numtech/actions/workflows/greetings.yml/badge.svg)](https://github.com/KOSASIH/Numtech/actions/workflows/greetings.yml)
 [![OSSAR](https://github.com/KOSASIH/Numtech/actions/workflows/ossar.yml/badge.svg)](https://github.com/KOSASIH/Numtech/actions/workflows/ossar.yml)
+[![njsscan sarif](https://github.com/KOSASIH/Numtech/actions/workflows/njsscan.yml/badge.svg)](https://github.com/KOSASIH/Numtech/actions/workflows/njsscan.yml)
 
 # Numtech
 
