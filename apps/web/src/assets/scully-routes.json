@@ -1,0 +1,14 @@
+[
+  {
+    "route": "/blog/customBlog"
+  },
+  {
+    "route": "/blog/customBlog2"
+  },
+  {
+    "route": "/"
+  },
+  {
+    "route": "/blog"
+  }
+]
