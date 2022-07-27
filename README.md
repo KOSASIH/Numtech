@@ -1,6 +1,8 @@
-# Angular Starter Template For Sanity.io
+[![CodeQL](https://github.com/KOSASIH/Numtech/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/KOSASIH/Numtech/actions/workflows/codeql-analysis.yml)
 
-This project is an angular starter template for [sanity.io](https://sanity.io).
+# Numtech
+
+This project is an angular starter for [sanity.io](https://sanity.io).
 It can be used as a website, blog or even a web shop. All the different types are prepared as show case.
 
 <p style="text-align: center;"><img src="https://github.com/OnecodexGitHubAdmin/sanity-template-angular-tailwindcss-website/raw/master/assets/website.png?raw=true" width="450"></p>
